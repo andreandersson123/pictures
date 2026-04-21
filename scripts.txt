@@ -21,3 +21,27 @@ Image: https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/22/Counter-B
 Title: Auto Head - Sniper Duels Script
 Bio: Made by - Gemini
 Image: https://tr.rbxcdn.com/180DAY-31894fdc80b9c53e8a81801b78b30948/500/280/Image/Jpeg/noFilter
+
+Title: Eclipse Silent Assist
+Bio: Made by - @umbra
+Image: https://media.newyorker.com/photos/660fe3deaba0b51c65382288/master/pass/Galchen-Eclipse.jpg
+
+Title: RiftSense Universal ESP
+Bio: Made by - @riftdev
+Image: https://www.gamerevolution.com/wp-content/uploads/sites/2/2018/08/fortnite-rift-locations.jpg
+
+Title: NovaTrack – Roblox Mobility Suite
+Bio: Made by - @nova
+Image: https://www.pbs.org/wgbh/nova/media/images/NOVA_Big_w_Galaxy_2025.width-600.png
+
+Title: Arsenal Assist Pack
+Bio: Made by - unknown
+Image: https://tr.rbxcdn.com/180DAY-6bb1a9706475489833d58dc1a21d1c69/768/432/Image/Webp/noFilter
+
+Title: Phantom Overlay Suite
+Bio: Made by - unknwon
+Image: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2444160/capsule_616x353.jpg?t=1745401971
+
+Title: Zenith Auto‑Align (Sniper Edition)
+Bio: Made by - @zenith
+Image: https://i.ytimg.com/vi/eznag-3a6lI/maxresdefault.jpg
