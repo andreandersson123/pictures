@@ -17,3 +17,7 @@ Image: https://cdn.mos.cms.futurecdn.net/Xcy6kR368PbdYxDV5aXjkM-1920-80.jpg
 Title: Neverwin - Counter blox hvh script
 Bio: Made by - Claude x ChatGPT
 Image: https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/22/Counter-Blox-codes.jpg?width=1200&quality=60&format=auto
+
+Title: Auto Head - Sniper Duels Script
+Bio: Made by - Gemini
+Image: https://tr.rbxcdn.com/180DAY-31894fdc80b9c53e8a81801b78b30948/500/280/Image/Jpeg/noFilter
