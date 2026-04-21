@@ -1,47 +1,83 @@
 Title: Rivals Multi Script
 Bio: Made by - @outside
 Image: https://wallpapercave.com/wp/wp14520903.jpg
+Version: 2.4.1
+LastUpdate: April 2026
+Published: August 2024
 
 Title: 420 Universal ESP
 Bio: Made by - @haze
 Image: https://t3.ftcdn.net/jpg/01/01/02/28/360_F_101022898_CxXBDzNGIteCV87Ya5OOh7Qo6oUCDatF.jpg
+Version: 1.0.3
+LastUpdate: March 2026
+Published: November 2024
 
 Title: Astral Aim Assist
 Bio: Made by - @astral
 Image: https://i.ytimg.com/vi/-w9-gNSndCo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBke2k1esnv7VyFIUDuJKFr9b4jzg
+Version: 3.1.0
+LastUpdate: April 2026
+Published: May 2024
 
 Title: Steal a brainrot script
 Bio: Made by - unknown
 Image: https://cdn.mos.cms.futurecdn.net/Xcy6kR368PbdYxDV5aXjkM-1920-80.jpg
+Version: 1.2.7
+LastUpdate: February 2026
+Published: January 2025
 
 Title: Neverwin - Counter blox hvh script
 Bio: Made by - Claude x ChatGPT
 Image: https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/22/Counter-Blox-codes.jpg?width=1200&quality=60&format=auto
+Version: 4.0.0
+LastUpdate: April 2026
+Published: October 2023
 
 Title: Auto Head - Sniper Duels Script
 Bio: Made by - Gemini
 Image: https://tr.rbxcdn.com/180DAY-31894fdc80b9c53e8a81801b78b30948/500/280/Image/Jpeg/noFilter
+Version: 1.5.2
+LastUpdate: January 2026
+Published: March 2025
 
 Title: Eclipse Silent Assist
 Bio: Made by - @umbra
 Image: https://media.newyorker.com/photos/660fe3deaba0b51c65382288/master/pass/Galchen-Eclipse.jpg
+Version: 2.0.1
+LastUpdate: March 2026
+Published: July 2024
 
 Title: RiftSense Universal ESP
 Bio: Made by - @riftdev
-Image: https://www.gamerevolution.com/wp-content/uploads/sites/2/2018/08/fortnite-rift-locations.jpg
+Image: https://i.pinimg.com/736x/a4/59/27/a45927aebf1a1e0ad3f8c766827c24b1.jpg
+Version: 1.8.4
+LastUpdate: February 2026
+Published: December 2024
 
 Title: NovaTrack – Roblox Mobility Suite
 Bio: Made by - @nova
 Image: https://www.pbs.org/wgbh/nova/media/images/NOVA_Big_w_Galaxy_2025.width-600.png
+Version: 2.2.0
+LastUpdate: April 2026
+Published: June 2024
 
 Title: Arsenal Assist Pack
 Bio: Made by - unknown
-Image: https://tr.rbxcdn.com/180DAY-6bb1a9706475489833d58dc1a21d1c69/768/432/Image/Webp/noFilter
+Image: https://i.ytimg.com/vi/Zqa-gVX9V7o/maxresdefault.jpg
+Version: 1.1.0
+LastUpdate: December 2025
+Published: September 2024
 
 Title: Phantom Overlay Suite
 Bio: Made by - unknwon
 Image: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2444160/capsule_616x353.jpg?t=1745401971
+Version: 3.3.3
+LastUpdate: April 2026
+Published: February 2025
 
-Title: Zenith Auto‑Align (Sniper Edition)
+Title: Zenith Auto-Align (Sniper Edition)
 Bio: Made by - @zenith
 Image: https://i.ytimg.com/vi/eznag-3a6lI/maxresdefault.jpg
+Version: 2.9.1
+LastUpdate: March 2026
+Published: April 2024
