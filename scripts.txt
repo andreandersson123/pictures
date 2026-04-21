@@ -5,3 +5,7 @@ Image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGa70BgePn1Rsf41oiG
 Title: Another Script
 Bio: Even cooler
 Image: https://github.com/andreandersson123/pictures/raw/refs/heads/main/rivalsroblox
+
+Title: Another Script123123123
+Bio: Even cooler123123
+Image: https://github.com/andreandersson123/pictures/raw/refs/heads/main/rivalsroblox
