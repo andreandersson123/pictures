@@ -61,6 +61,13 @@ Version: 3.3.3
 LastUpdate: April 2026
 Published: February 2025
 
+Title: Eclipse Silent Assist
+Bio: Made by - @umbra
+Image: https://media.newyorker.com/photos/660fe3deaba0b51c65382288/master/pass/Galchen-Eclipse.jpg
+Version: 2.0.1
+LastUpdate: March 2026
+Published: July 2024
+
 Title: Zenith Auto Align (Sniper Edition)
 Bio: Made by - @zenith
 Image: https://i.ytimg.com/vi/eznag-3a6lI/maxresdefault.jpg
@@ -249,10 +256,3 @@ Image: https://nftcalendar.io/storage/uploads/2022/02/21/image-not-found_0221202
 Version: 1.3.5
 LastUpdate: March 2026
 Published: February 2025
-
-Title: Eclipse Silent Assist
-Bio: Made by - @umbra
-Image: https://media.newyorker.com/photos/660fe3deaba0b51c65382288/master/pass/Galchen-Eclipse.jpg
-Version: 2.0.1
-LastUpdate: March 2026
-Published: July 2024
