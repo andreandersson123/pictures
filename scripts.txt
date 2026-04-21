@@ -1,6 +1,6 @@
 Title: My First Script
 Bio: Does something really cool
-Image: https://github.com/andreandersson123/pictures/raw/refs/heads/main/rivalsroblox
+Image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGa70BgePn1Rsf41oiG6ac0_TAzpKXj4d9qg&s
 
 Title: Another Script
 Bio: Even cooler
