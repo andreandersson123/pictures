@@ -75,7 +75,7 @@ Version: 3.3.3
 LastUpdate: April 2026
 Published: February 2025
 
-Title: Zenith Auto-Align (Sniper Edition)
+Title: Zenith Auto Align (Sniper Edition)
 Bio: Made by - @zenith
 Image: https://i.ytimg.com/vi/eznag-3a6lI/maxresdefault.jpg
 Version: 2.9.1
