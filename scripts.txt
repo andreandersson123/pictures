@@ -40,13 +40,6 @@ Version: 1.5.2
 LastUpdate: January 2026
 Published: March 2025
 
-Title: Eclipse Silent Assist
-Bio: Made by - @umbra
-Image: https://media.newyorker.com/photos/660fe3deaba0b51c65382288/master/pass/Galchen-Eclipse.jpg
-Version: 2.0.1
-LastUpdate: March 2026
-Published: July 2024
-
 Title: NovaTrack – Roblox Mobility Suite
 Bio: Made by - @nova
 Image: https://www.pbs.org/wgbh/nova/media/images/NOVA_Big_w_Galaxy_2025.width-600.png
@@ -256,3 +249,10 @@ Image: https://i.ytimg.com/vi/ZKTr3TmJozo/maxresdefault.jpg
 Version: 1.3.5
 LastUpdate: March 2026
 Published: February 2025
+
+Title: Eclipse Silent Assist
+Bio: Made by - @umbra
+Image: https://media.newyorker.com/photos/660fe3deaba0b51c65382288/master/pass/Galchen-Eclipse.jpg
+Version: 2.0.1
+LastUpdate: March 2026
+Published: July 2024
