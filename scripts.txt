@@ -1,7 +1,7 @@
 Title: My First Script
 Bio: Does something really cool
-Image: https://raw.githubusercontent.com/YOU/REPO/main/img1.png
+Image: https://github.com/andreandersson123/pictures/raw/refs/heads/main/rivalsroblox
 
 Title: Another Script
 Bio: Even cooler
-Image: https://raw.githubusercontent.com/YOU/REPO/main/img2.jpg
+Image: https://github.com/andreandersson123/pictures/raw/refs/heads/main/rivalsroblox
