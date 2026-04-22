@@ -1,7 +1,7 @@
 Title: Rivals Multi Script
 Bio: Made by - @outside
 Image: https://wallpapercave.com/wp/wp14520903.jpg
-Script: https://raw.githubusercontent.com/.../rivals.lua
+Script: https://github.com/andreandersson123/pictures/blob/main/rivals.lua
 Version: 2.4.1
 LastUpdate: April 2026
 Published: August 2024
