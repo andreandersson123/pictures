@@ -1,17 +1,10 @@
 Title: Rivals Multi Script
 Bio: Made by - @outside
 Image: https://wallpapercave.com/wp/wp14520903.jpg
-Script: https://github.com/andreandersson123/pictures/blob/main/rivals.lua
+Script: https://raw.githubusercontent.com/andreandersson123/pictures/refs/heads/main/rivals.lua
 Version: 2.4.1
 LastUpdate: April 2026
 Published: August 2024
-
-Title: Astral Aim Assist
-Bio: Made by - @astral
-Image: https://i.ytimg.com/vi/-w9-gNSndCo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBke2k1esnv7VyFIUDuJKFr9b4jzg
-Version: 3.1.0
-LastUpdate: April 2026
-Published: May 2024
 
 Title: 420 Universal ESP
 Bio: Made by - @haze
@@ -19,6 +12,13 @@ Image: https://t3.ftcdn.net/jpg/01/01/02/28/360_F_101022898_CxXBDzNGIteCV87Ya5OO
 Version: 1.0.3
 LastUpdate: March 2026
 Published: November 2024
+
+Title: Astral Aim Assist
+Bio: Made by - @astral
+Image: https://i.ytimg.com/vi/-w9-gNSndCo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBke2k1esnv7VyFIUDuJKFr9b4jzg
+Version: 3.1.0
+LastUpdate: April 2026
+Published: May 2024
 
 Title: Steal a brainrot script
 Bio: Made by - unknown
