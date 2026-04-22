@@ -243,10 +243,3 @@ Image: https://nftcalendar.io/storage/uploads/2022/02/21/image-not-found_0221202
 Version: 1.5.7
 LastUpdate: February 2026
 Published: November 2024
-
-Title: Pressure Auto Solve
-Bio: Made by - @psi
-Image: https://nftcalendar.io/storage/uploads/2022/02/21/image-not-found_0221202211372462137974b6c1a.png
-Version: 2.0.0
-LastUpdate: April 2026
-Published: January 2025
