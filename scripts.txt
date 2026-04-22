@@ -250,10 +250,3 @@ Image: https://nftcalendar.io/storage/uploads/2022/02/21/image-not-found_0221202
 Version: 2.0.0
 LastUpdate: April 2026
 Published: January 2025
-
-Title: Dead Rails Auto Win
-Bio: Made by - @rails
-Image: https://nftcalendar.io/storage/uploads/2022/02/21/image-not-found_0221202211372462137974b6c1a.png
-Version: 1.3.5
-LastUpdate: March 2026
-Published: February 2025
