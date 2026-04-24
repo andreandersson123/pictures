@@ -2,6 +2,6 @@ Title: Oil empire Script
 Bio: Made by - @Tora
 Image: https://static.beebom.com/wp-content/uploads/2026/03/Oil-Empire-Codes.jpg?w=1200&quality=75
 Script: https://raw.githubusercontent.com/andreandersson123/pictures/refs/heads/main/oilempire.lua
-Version: 2.4.1
-LastUpdate: April 2026
-Published: August 2024
+Version: Unknown
+LastUpdate: Unknown
+Published: 2026-04-24
