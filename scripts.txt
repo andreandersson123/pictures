@@ -13,3 +13,11 @@ Script: https://raw.githubusercontent.com/andreandersson123/pictures/refs/heads/
 Version: No Info
 LastUpdate: No Info
 Published: 2026-04-24
+
+Title: Arsenal Script
+Bio: Made by - @FelipeHub
+Image: https://wallpapercave.com/wp/wp4983494.jpg
+Script: https://raw.githubusercontent.com/andreandersson123/pictures/refs/heads/main/arsenal.lua
+Version: No Info
+LastUpdate: No Info
+Published: 2026-04-24
