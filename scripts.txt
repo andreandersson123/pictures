@@ -2,6 +2,14 @@ Title: Oil empire Script
 Bio: Made by - @Tora
 Image: https://frvr.com/wp-content/uploads/2026/03/roblox-oil-empire-codes.jpg
 Script: https://raw.githubusercontent.com/andreandersson123/pictures/refs/heads/main/oilempire.lua
-Version: Unknown
-LastUpdate: Unknown
+Version: No Info
+LastUpdate: No Info
+Published: 2026-04-24
+
+Title: Bike Obby For Brainrots Script
+Bio: Made by - No Info
+Image: https://cdn-0001.qstv.on.epicgames.com/yeQPQlpSGZyrUdxIYk/image/landscape_comp.jpeg
+Script: https://raw.githubusercontent.com/andreandersson123/pictures/refs/heads/main/bikeforbrainrot.lua
+Version: No Info
+LastUpdate: No Info
 Published: 2026-04-24
