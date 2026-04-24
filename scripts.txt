@@ -27,8 +27,8 @@ Version: 1.2.7
 LastUpdate: February 2026
 Published: January 2025
 
-Title: Neverwin - Counter blox hvh script
-Bio: Made by - Claude x ChatGPT
+Title: Neverwin - Counter blox Script
+Bio: Made by - @Claude
 Image: https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/22/Counter-Blox-codes.jpg?width=1200&quality=60&format=auto
 Version: 4.0.0
 LastUpdate: April 2026
