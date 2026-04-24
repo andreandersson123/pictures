@@ -1,6 +1,6 @@
 Title: Oil empire Script
 Bio: Made by - @Tora
-Image: https://static.beebom.com/wp-content/uploads/2026/03/Oil-Empire-Codes.jpg?w=1200&quality=75
+Image: https://frvr.com/wp-content/uploads/2026/03/roblox-oil-empire-codes.jpg
 Script: https://raw.githubusercontent.com/andreandersson123/pictures/refs/heads/main/oilempire.lua
 Version: Unknown
 LastUpdate: Unknown
